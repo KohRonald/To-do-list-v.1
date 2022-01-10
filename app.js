@@ -24,11 +24,6 @@ app.get("/work", function(req, res) {
     res.render("list", { listTitle: "Work List", newListItems: workItems });
 })
 
-//render about ejs
-app.get("/about", function(req, res) {
-    res.render("about");
-})
-
 //post function
 app.post("/", function(req, res) {
 
