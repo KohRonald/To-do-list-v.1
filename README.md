@@ -3,4 +3,4 @@ To-do-list with Node.js built by Ronald, with the guide of "The Complete 2022 We
 
 Dependencies: Express "4.17.2", ejs: "^3.1.6",
 
-Built with HTML, CSS, Javascript, Node.js, Express.js, and EJS
+Built with CSS, Javascript, Node.js, Express.js, and EJS
